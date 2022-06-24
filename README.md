@@ -3,7 +3,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 <h1 align="center">
-  <img width:"200px" alt="Center Car" title="Center Car" src="./assets/imagens/Center Car.png" />
+  <img width:"100px" alt="Center Car" title="Center Car" src="./assets/imagens/Center Car.png" />
 </h1>
 
 
