@@ -17,7 +17,7 @@
 - [X] Edição de carros
 - [X] Exclusão de usuário
 - [X] Exclusão de carros
-![](center_car_funcionalidades.gif)
+![](/assets/imagens/center_car_funcionalidades.gif)
 
 
 ### 🛠 Tecnologias
