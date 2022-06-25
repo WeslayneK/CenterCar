@@ -45,18 +45,18 @@ $msg = "";
             </div>
             
             <div class="heading">
-                <i style="color: darkorange;" class="material-icons">account_box</i>
-                <h4 class="modal-title">Faça o login na sua conta</h4>
+                <i style="color: red;" class="material-icons">account_box</i>
+                <h4 style="color:black; font-weight:500;" class="modal-title">Faça o login na sua conta</h4>
             </div>
             <form action="loginp.php" method="post" class="form-horizontal">
                 <div class="form-group top"><i class="material-icons">face</i>
-                    <label class="control-label">Usuário</label>
+                    <label style="font-size:1rem;" class="control-label">Usuário</label>
                     <div>
                         <input type="text" class="form-control" name="usuario">
                     </div>
                 </div>
                 <div class="form-group"><i class="material-icons">vpn_key</i>
-                    <label class="control-label">Senha</label>
+                    <label style="font-size:1rem;" class="control-label">Senha</label>
                     <div>
                         <input type="password" class="form-control" name="senha">
                     </div>

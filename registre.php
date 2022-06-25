@@ -27,46 +27,46 @@ include INC_DIR . 'header.inc';
         <div class="form">
             <div class="heading">
                 <i style="color: darkorange;" class="material-icons">create</i>
-                <h4 class="modal-title"><?php echo $msg; ?></h4>
+                <h4 style="color:black; font-weight:500;" class="modal-title"><?php echo $msg; ?></h4>
             </div>
             <form action="" method="post" class="form-horizontal">
                 <fieldset>
-                    <legend class="formlabel">Dados pessoais</legend>
+                    <legend style="color:black; font-weight:500;" class="formlabel">Dados pessoais</legend>
                     <div class="form-group"><i class="material-icons"></i>
-                        <label class="control-label">Nome</label>
+                        <label style="font-size:1rem;" class="control-label">Nome</label>
                         <div>
                             <input type="text" class="form-control" name="nome" required>
                         </div>
                     </div>
                     <div class="form-group"><i class="material-icons"></i>
-                        <label class="control-label">Sobrenome</label>
+                        <label style="font-size:1rem;" class="control-label">Sobrenome</label>
                         <div>
                             <input type="text" class="form-control" name="sobrenome" required>
                         </div>
                     </div>
                     <div class="form-group"><i class="material-icons"></i>
-                        <label class="control-label">E-mail</label>
+                        <label style="font-size:1rem;" class="control-label">E-mail</label>
                         <div>
                             <input type="text" class="form-control" name="email" required>
                         </div>
                     </div>
                 </fieldset>
                 <fieldset>
-                    <legend class="formlabel">Novo usuário e senha</legend>
+                    <legend style="color:black; font-weight:500;" class="formlabel">Novo usuário e senha</legend>
                     <div class="form-group top"><i class="material-icons">face</i>
-                        <label class="control-label">Usuário</label>
+                        <label style="font-size:1rem;" class="control-label">Usuário</label>
                         <div>
                             <input type="text" class="form-control" name="username" required>
                         </div>
                     </div>
                     <div class="form-group"><i class="material-icons">vpn_key</i>
-                        <label class="control-label">Senha</label>
+                        <label style="font-size:1rem;" class="control-label">Senha</label>
                         <div>
                             <input type="password" class="form-control" name="senha" required>
                         </div>
                     </div>
                     <div class="form-group"><i class="material-icons">check</i>
-                        <label class="control-label">Confirme a senha</label>
+                        <label style="font-size:1rem;" class="control-label">Confirme a senha</label>
                         <div>
                             <input type="password" class="form-control" name="confirm_password" required>
                         </div>

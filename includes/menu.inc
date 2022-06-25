@@ -18,7 +18,7 @@
                 </ul>
             <div class="col-md-3 text-end">
                 <a href="#" class="col-md-3 text-end">
-                    <button type="button" class="btn btn-primary"><img class="circle" width="30" heigth="30" src="./assets/imagens/usuarios/<?php echo $avatar; ?>"><?php print " " . "$usuario"; ?></button></a>
+                    <button style="background-image: linear-gradient(to right, red, darkorange); border-color: red;" type="button" class="btn btn-primary"><img class="circle" width="30" heigth="30" src="./assets/imagens/usuarios/<?php echo $avatar; ?>"><?php print " " . "$usuario"; ?></button></a>
                 <a href="logout.php">
                     <button type="button" class="btn btn-outline-primary me-2">Sair</button></a>
             </div>
@@ -40,7 +40,7 @@
                 <a href="login.php">
                     <button type="button" class="btn btn-outline-primary me-2">Entrar</button></a>
                 <a href="registre.php">
-                    <button type="button" class="btn btn-primary">Registre-se</button></a>
+                    <button style="background-image: linear-gradient(to right, red, darkorange); border-color: red;" type="button" class="btn btn-primary">Registre-se</button></a>
             </div>
         </header>
 <?php

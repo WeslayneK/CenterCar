@@ -31,6 +31,7 @@ include INC_DIR . 'header.inc';
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
 
     </div>
     <div class="carousel-inner">
@@ -43,9 +44,10 @@ include INC_DIR . 'header.inc';
 
         <div class="container">
           <div class="carousel-caption text-start">
-            <h1 style="color: darkorange;">CONFORTO E <br>QUALIDADE</h1>
-            <p>Há mais de 20 anos no mercado, <br> atuamos com venda de carros novos <br>e seminovos.</p><br>
-            <p><a style="background-color: darkorange; border-color: darkorange;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+            <h1 style="color: red;"> Mais <br> de 20 anos <br> no mercado</h1>
+            <p style="font-weight: 600; color: white;">Maior variedade de modelos do Brasil <br>e seminovos.</p>
+            <p><a style="background-image: linear-gradient(to right, red, darkorange); border-color: red;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+            
           </div>
         </div>
       </div>
@@ -59,7 +61,7 @@ include INC_DIR . 'header.inc';
           <div class="carousel-caption">
             <h1>Novas histórias</h1>
             <p>Aqui você encontra os clássicos com um preço em conta.</p>
-            <p><a style="background-color: darkorange; border-color: darkorange;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+            <p><a style="background-image: linear-gradient(to right, darkorange , red); border-color: red;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
           </div>
         </div>
       </div>
@@ -73,7 +75,7 @@ include INC_DIR . 'header.inc';
           <div class="carousel-caption text-start">
             <h1>Aventure-se</h1>
             <p>Diversos carros para você viver <br>uma nova aventura.</p>
-            <p><a style="background-color: darkorange; border-color: darkorange;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+            <p><a style="background-image: linear-gradient(to right, darkorange , red); border-color: red;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
           </div>
         </div>
       </div>
@@ -88,7 +90,7 @@ include INC_DIR . 'header.inc';
           <div class="carousel-caption text-end">
             <h1>Construa novas lembranças</h1>
             <p>Carros para toda família, com conforto e segurança.</p>
-            <p><a style="background-color: darkorange; border-color: darkorange;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+            <p><a style="background-image: linear-gradient(to right, darkorange , red); border-color: red;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
           </div>
         </div>
       </div>
@@ -100,10 +102,10 @@ include INC_DIR . 'header.inc';
         <rect width="100%" height="100%" fill="#777"/></svg>
 
         <div class="container">
-          <div class="carousel-caption text-start">
-            <h1>Volta ao passado</h1>
-            <p>Carros antigos para viver a nostalgia.</p><br>
-            <p><a style="background-color: darkorange; border-color: darkorange;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+          <div class="carousel-caption text-center">
+            <h1 >Volta ao passado</h1>
+            <p><a style="background-image: linear-gradient(to right, darkorange , red); border-color: red;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p>
+            <br><br><br><br><br>
           </div>
         </div>
       </div>
@@ -117,7 +119,21 @@ include INC_DIR . 'header.inc';
         <div class="container">
           <div class="carousel-caption text-start">
             <h1>Elegância</h1>
-            <p><a style="background-color: darkorange; border-color: darkorange;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p> <br><br><br>
+            <p><a style="background-image: linear-gradient(to right, darkorange , red); border-color: red;" class="btn btn-lg btn-primary" href="registre.php">Registre-se</a></p> <br><br><br>
+          </div>
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" 
+        aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img src="./assets/imagens/7.jpg">
+        <rect width="100%" height="100%" fill="#777"/></svg>
+
+        <div class="container">
+          <div class="carousel-caption text-start">
+            <h1 style="color: red;" >Só aqui.</h1>
+            <p><a style="background-image: linear-gradient(to right, darkorange , red); border-color: red;" class="btn btn-lg btn-primary" href="ofertas.php">Veja nossos produtos</a></p> <br><br><br>
           </div>
         </div>
       </div>

@@ -3,7 +3,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 <h1 align="center">
-  <img width:"60px" alt="Center Car" title="Center Car" src="./assets/imagens/Center Car.png" />
+  <img alt="Center Car" title="Center Car" src="./assets/imagens/Center Car.png" />
 </h1>
 
 
@@ -17,7 +17,7 @@
 - [X] Edição de carros
 - [X] Exclusão de usuário
 - [X] Exclusão de carros
-![](/assets/imagens/center_car_funcionalidades.gif)
+![](center_car_funcionalidades.gif)
 
 
 ### 🛠 Tecnologias

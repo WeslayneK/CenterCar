@@ -21,9 +21,9 @@ include INC_DIR . 'header.inc';
             <section class="py-1 text-center container">
                 <div class="row py-lg-3">
                     <div class="col-lg-6 col-md-8 mx-auto">
-                        <h1 class="fw-ligh titprincipal">OFERTAS DO DIA</h1>
+                        <h1 style="color: darkorange; font-size:2.5rem;" class="fw-ligh titprincipal">OFERTAS DO DIA</h1>
                         <p class="lead text-muted">
-                            Bem-vindos à Auto Car!
+                            Bem-vindos à Center Car!
                         </p>
                     </div>
                 </div>
