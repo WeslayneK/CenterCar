@@ -18,8 +18,6 @@
 - [X] Exclusão de usuário
 - [X] Exclusão de carros
 - [X] Login Usuário Comum e Administrador
-![](/assets/imagens/center_car_funcionalidades.gif)
-
 
 ### 🛠 Tecnologias
 
